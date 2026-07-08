@@ -13,7 +13,7 @@ I am a passionate **Full Stack Web Developer** and Chemical Engineering student 
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://codewhizhp.in" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/codewhizhp.in-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/harshal-patle-a21a82297/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
